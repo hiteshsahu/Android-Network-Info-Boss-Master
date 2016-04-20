@@ -2,7 +2,7 @@
 
 This project is Wrapper for Android Network Framework. This sample demonstrates how we can fetch all network related information from any android device
 
-<h5> This project's consist of 4 screen demonstarting how to fetch :- </h5>
+<h5> This project's consist of 4 modules demonstarting different network functions :- </h5>
 
 <h5> 1) Basic Network information like </h5>
  - IPV4
@@ -18,8 +18,8 @@ This project is Wrapper for Android Network Framework. This sample demonstrates 
  - Wifi Status(Enable /Disable)
  - Mobile Data Status(Enable/Disable)
  
- ![Alt text](https://github.com/hiteshsahu/Android-Audio-Recorder-Visualization-Master/blob/master/Art/recorder_screen.png "recording screen")
-![Alt text](https://github.com/hiteshsahu/Android-Audio-Recorder-Visualization-Master/blob/master/Art/recording_play.png "Playback screen")
+ ![Alt text](https://github.com/hiteshsahu/Android-Network-Info-Boss-Master/blob/master/art/network_info1.png "recording screen")
+ ![Alt text](https://github.com/hiteshsahu/Android-Network-Info-Boss-Master/blob/master/art/network_info2.png "Playback screen")
 
 <h5> 2) Mobile Network Information like.</h5>
 
@@ -33,8 +33,8 @@ This project is Wrapper for Android Network Framework. This sample demonstrates 
  - Dual SIM Status
  - Dual SIm IMEI
  
-![Alt text](https://github.com/hiteshsahu/Android-Audio-Recorder-Visualization-Master/blob/master/Art/recorder_screen.png "recording screen")
-![Alt text](https://github.com/hiteshsahu/Android-Audio-Recorder-Visualization-Master/blob/master/Art/recording_play.png "Playback screen")
+![Alt text](https://github.com/hiteshsahu/Android-Network-Info-Boss-Master/blob/master/art/sim_info.png "recording screen")
+![Alt text](https://github.com/hiteshsahu/Android-Network-Info-Boss-Master/blob/master/art/dual_sim_info.png "Playback screen")
 
 <h5> 3) Wifi Network Infromation :-.</h5>
 
@@ -46,7 +46,7 @@ This project is Wrapper for Android Network Framework. This sample demonstrates 
 - Stregth (dB)
 - Security Level
 
-![Alt text](https://github.com/hiteshsahu/Android-Audio-Recorder-Visualization-Master/blob/master/Art/recording_play.png "Playback screen")
+![Alt text](https://github.com/hiteshsahu/Android-Network-Info-Boss-Master/blob/master/art/Wifi_info.png "Playback screen")
 
 
 <h5> 4) Process Data Usage information .</h5>
@@ -54,7 +54,7 @@ This project is Wrapper for Android Network Framework. This sample demonstrates 
 - Byte Recieved
 - Byte Transferred
 
-![Alt text](https://github.com/hiteshsahu/Android-Audio-Recorder-Visualization-Master/blob/master/Art/recording_play.png "Playback screen")
+![Alt text](https://github.com/hiteshsahu/Android-Network-Info-Boss-Master/blob/master/art/processes.png "Playback screen")
 
 Dependency:- Appcomat v7
 
