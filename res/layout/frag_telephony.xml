@@ -463,9 +463,8 @@
                     android:textSize="15sp"
                     android:textStyle="bold" />
             </TableRow>
-            
-            
-              <TableRow
+
+            <TableRow
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp" >
@@ -778,8 +777,8 @@
                     android:textSize="15sp"
                     android:textStyle="bold" />
             </TableRow>
-            
-              <TableRow
+
+            <TableRow
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp" >
@@ -961,9 +960,8 @@
                     android:textSize="15sp"
                     android:textStyle="bold" />
             </TableRow>
-            
-            
-             <TableRow
+
+            <TableRow
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp" >
@@ -1010,59 +1008,6 @@
                     android:textStyle="bold" />
             </TableRow>
         </TableLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/measure"
-            android:layout_margin="5dp"
-            android:orientation="vertical" >
-
-            <Button
-                android:id="@+id/place_order"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="5dp"
-                android:layout_marginTop="25dp"
-                android:background="#ff669900"
-                android:text="Confirm order"
-                android:textColor="@color/white"
-                android:textSize="20sp" />
-
-            <Button
-                android:id="@+id/add_to_fav"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="25dp"
-                android:background="@color/pink_pressed"
-                android:text="Add to Favourite"
-                android:textColor="@color/white"
-                android:textSize="20sp"
-                android:visibility="gone" />
-        </LinearLayout>
-
-        <TextView
-            android:id="@+id/hot_offers"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginTop="20dp"
-            android:ellipsize="marquee"
-            android:gravity="center_horizontal"
-            android:text="You may also like"
-            android:textColor="#000"
-            android:textSize="20sp"
-            android:visibility="gone" />
-
-        <android.support.v4.view.ViewPager
-            android:id="@+id/top_selleing_pager"
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:layout_below="@+id/best_value"
-            android:layout_marginTop="10dp"
-            android:visibility="gone" />
     </LinearLayout>
 
 </ScrollView>

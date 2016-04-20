@@ -26,7 +26,7 @@ public class ProcessListFragment extends Fragment implements OnRefreshListener {
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
-		View rootView = inflater.inflate(R.layout.frag_process_list, container,
+		View rootView = inflater.inflate(R.layout.frag_process, container,
 				false);
 
 		swipeLayout = (SwipeRefreshLayout) rootView

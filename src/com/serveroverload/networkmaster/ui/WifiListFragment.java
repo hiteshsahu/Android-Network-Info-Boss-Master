@@ -35,7 +35,7 @@ public class WifiListFragment extends Fragment implements OnRefreshListener {
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
-		View rootView = inflater.inflate(R.layout.wifi_list_fragment,
+		View rootView = inflater.inflate(R.layout.frag_wifi,
 				container, false);
 
 		wifiManager = ((WifiManager) getActivity().getSystemService(

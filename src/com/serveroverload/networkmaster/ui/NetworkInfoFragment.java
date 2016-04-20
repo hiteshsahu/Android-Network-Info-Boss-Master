@@ -32,7 +32,7 @@ public class NetworkInfoFragment extends Fragment implements
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
-		rootView = inflater.inflate(R.layout.frag_home, container, false);
+		rootView = inflater.inflate(R.layout.frag_network, container, false);
 
 
 		swipeLayout = (SwipeRefreshLayout) rootView
